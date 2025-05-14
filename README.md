@@ -51,8 +51,8 @@
 
 ### 🚀 Currently being a:
 
-- Full-Stack Developer & WordPress Lead @ [CreativeByte](https://creativebyte.eu)
-- Product Owner & Founder @ [AboveWP](https://abovewp.com)
+- Full-Stack Developer & WordPress Lead at [CreativeByte](https://creativebyte.eu)
+- Product Owner at [AboveWP](https://abovewp.com)
 <a href="https://creativebyte.eu">
     <img src="https://creativebyte.eu/wp-content/uploads/2024/08/logo-cb.png" height="40" alt="CreativeByte" />
   </a>
