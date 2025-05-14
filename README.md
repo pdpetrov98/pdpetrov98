@@ -10,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td><strong>Developing</strong></td>
     <td>
       <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
       <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
