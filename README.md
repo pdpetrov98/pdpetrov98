@@ -51,5 +51,5 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://abovewp.com">
-    <img src="https://img.shields.io/badge/AboveWP-4353FF?style=for-the-badge&logo=wordpress&logoColor=white" alt="AboveWP" />
+        <img src="https://dev.abovewp.com/wp-content/uploads/2025/05/logo-03-1.svg" height="40" alt="CreativeByte" />
   </a>
